@@ -39,7 +39,7 @@ export default function Hero() {
           <div className="relative">
             <div className="bg-emerald-100 rounded-3xl p-8 transform rotate-3 hover:rotate-1 transition-transform duration-500">
               <img 
-                src="https://images.pexels.com/photos/5779096/pexels-photo-5779096.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                src="https://images.pexels.com/photos/5201901/pexels-photo-5201901.jpeg" 
                 alt="Opticien professionnel"
                 className="rounded-2xl shadow-lg w-full object-cover"
               />
